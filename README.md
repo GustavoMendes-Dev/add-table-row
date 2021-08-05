@@ -1,2 +1,3 @@
-# add-table-row
-Adicionar linhas em tabela via JavaScript + Bônus
+## Javascript: Adicionar e remover linhas de uma tabela HTML dinamicamente + Bônus
+
+Como inserir uma linha em um corpo de tabela HTML em JavaScript.
